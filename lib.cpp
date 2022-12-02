@@ -1,4 +1,3 @@
-
 #include "lib.h"
 
 int funzione(int a, int i){
