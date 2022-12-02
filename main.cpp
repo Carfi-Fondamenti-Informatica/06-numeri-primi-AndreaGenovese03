@@ -10,5 +10,4 @@ int main(){
     else cout<<"numero non primo";
     return 0;
 }
-Footer
-© 2022 GitHub, In
+
